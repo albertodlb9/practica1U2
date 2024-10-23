@@ -1,8 +1,8 @@
 <?php
-    $servername = "sql100.infinityfree.com"; 
-    $username = "if0_37433383"; //Aquí tienes que poner tu usuario        
-    $password = "HEKXXPybYS8"; //Aquí tienes que poner tu pass            
-    $dbname = "if0_37433383_prueba"; //Aquí tienes que poner el nombre de tu BD      
+    $servername = "localhost"; 
+    $username = "saloalberto97"; //Aquí tienes que poner tu usuario        
+    $password = "ronaldo_9"; //Aquí tienes que poner tu pass            
+    $dbname = "prueba"; //Aquí tienes que poner el nombre de tu BD      
 
     // Crear conexión con la base de datos
     $conn = new mysqli($servername, $username, $password, $dbname);
