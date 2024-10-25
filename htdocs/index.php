@@ -29,7 +29,7 @@
     <div id='relojCliente'></div>
     <br>
     <h3>Formulario</h3>
-    
+    <h2>hola</h2>
     <br>
     <form action="insertar.php" method="POST">
         <label for="nombre">Nombre:</label>
